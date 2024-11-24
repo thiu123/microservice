@@ -1,0 +1,4 @@
+moongose
+express
+cors
+body-parser

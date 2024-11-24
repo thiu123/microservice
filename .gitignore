@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Build and cache folders
+dist/
+build/
+.cache/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Miscellaneous
+.env.local
+.env.*.local
+.eslintcache
+coverage/
